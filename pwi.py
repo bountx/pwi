@@ -1,3 +1,5 @@
 #pls ktos popraw mi kod :3
 
-pritn("nie chce mi sie to wypisac")
+print("nie chce mi sie to wypisac")
+
+print("znowu nie dziala")
